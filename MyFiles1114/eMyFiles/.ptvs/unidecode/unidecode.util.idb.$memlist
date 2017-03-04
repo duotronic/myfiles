@@ -1,0 +1,10 @@
+print_function
+os
+optparse
+locale
+warnings
+fatal
+unidecode
+PY3
+main
+sys

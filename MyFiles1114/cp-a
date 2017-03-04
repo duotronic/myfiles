@@ -1,0 +1,7 @@
+set,delFlg,extension,name,size,dateTime,FlexField,hash,path
+FF,0,.txt,five.txt,4,2016-11-15T09:03:29,C:\Users\mark_\Documents\cp-a.csv,30056e1cab7a61d256fc8edd970d14f5,D:\myfile-project\testdata
+FF,0,.txt,four.txt,4,2016-11-14T18:54:00,C:\Users\mark_\Documents\cp-a.csv,8cbad96aced40b3838dd9f07f6ef5772,D:\myfile-project\testdata
+FF,0,.txt,one.txt,3,2016-11-14T18:49:56,C:\Users\mark_\Documents\cp-a.csv,f97c5d29941bfb1b2fdab0874906ab82,D:\myfile-project\testdata
+FF,0,.txt,three.txt,5,2016-11-14T18:51:15,C:\Users\mark_\Documents\cp-a.csv,35d6d33467aae9a2e3dccb4b6b027878,D:\myfile-project\testdata
+FF,0,.txt,two.txt,3,2016-11-14T18:50:56,C:\Users\mark_\Documents\cp-a.csv,b8a9f715dbb64fd5c56e7783c6820a61,D:\myfile-project\testdata
+FF,0,.txt,duptwo.txt,3,2016-11-14T18:50:56,C:\Users\mark_\Documents\cp-a.csv,b8a9f715dbb64fd5c56e7783c6820a61,D:\myfile-project\testdata\folder
